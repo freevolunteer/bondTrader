@@ -1,0 +1,19 @@
+[
+  {
+    "comment": "低自盈,短持仓,低触发",
+    "holdCnt": 3,
+    "amt": 2000,
+    "vol": 0,
+    "bUpper": 0.02,
+    "bWait": 3,
+    "atSale": 0.3,
+    "holdSec": 6,
+    "high": 1,
+    "low": 0.4,
+    "sec": 10,
+    "raRate": 0.125,
+    "tnRate": 0.005,
+    "stockAmt": 20,
+    "bondAmt": 2
+  }
+]
